@@ -8,3 +8,8 @@ git clone https://github.com/Thecode764/Fake
 cd Fake
 python3 Fake.py
 ```
+## To open again
+```
+cd Fake
+python3 Fake.py
+```
